@@ -1,0 +1,13 @@
+Error Log (28.3.2016 17:26:20):
+   konum: MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   konum: MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   konum: MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   konum: MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   konum: MySql.Data.MySqlClient.NativeDriver.Open()
+   konum: MySql.Data.MySqlClient.Driver.Open()
+   konum: MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   konum: MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   konum: MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   konum: MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   konum: MySql.Data.MySqlClient.MySqlConnection.Open()
+   konum: MySQLManager.Database.MySqlClient.connect() c:\Users\Zekeriya\Desktop\Emulator\core\mysql\MySqlClient.cs içinde: satır 24

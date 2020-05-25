@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Emulator\bin\Debug\Emulator.exe.config
+C:\Users\Zekeriya\Desktop\Emulator\bin\Debug\Emulator.exe.config
+C:\Users\Zekeriya\Desktop\Emulator\obj\Debug\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\intel7\Desktop\Emulator\bin\Debug\Emulator.exe.config
+C:\Users\zeki\Desktop\Oyun Emulatorleri Ve Kodlar\Yedeklerım\Emulator\bin\Debug\Emulator.exe.config
+C:\Users\zeki\Desktop\Oyun Emulatorleri Ve Kodlar\Yedeklerım\Emulator\obj\Debug\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Android-AP\Desktop\Emulator\bin\Debug\Emulator.exe.config
+C:\Users\Android-AP\Desktop\Emulator\obj\Debug\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Android-AP\Desktop\Emulator\bin\Debug\Emulator.exe
+C:\Users\Android-AP\Desktop\Emulator\bin\Debug\Emulator.pdb
+C:\Users\Android-AP\Desktop\Emulator\obj\Debug\Emulator.exe
+C:\Users\Android-AP\Desktop\Emulator\obj\Debug\Emulator.pdb
+C:\Users\Android-AP\Desktop\Emulator - Kopya\bin\Debug\Emulator.exe.config
+C:\Users\Android-AP\Desktop\Emulator - Kopya\obj\Debug\Emulator.exe
+C:\Users\Android-AP\Desktop\Emulator - Kopya\obj\Debug\Emulator.pdb
+C:\Users\Android-AP\Desktop\Emulator - Kopya\bin\Debug\Emulator.exe
+C:\Users\Android-AP\Desktop\Emulator - Kopya\bin\Debug\Emulator.pdb
+C:\Users\Android-AP\Desktop\Emulator - Kopya\obj\Debug\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Android-AP\Desktop\Emulator - Kopya\obj\Debug\Do.TEXT.resources
+C:\Users\Android-AP\Desktop\Emulator - Kopya\obj\Debug\Emulator.csproj.GenerateResource.Cache
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\bin\Debug\Emulator.exe.config
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Debug\Emulator.exe
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Debug\Emulator.pdb
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\bin\Debug\Emulator.exe
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\bin\Debug\Emulator.pdb
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Debug\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Debug\Do.TEXT.resources
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Debug\Emulator.csproj.GenerateResource.Cache
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Debug\Do.ChatLog.resources
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Debug\Do.KICK.resources

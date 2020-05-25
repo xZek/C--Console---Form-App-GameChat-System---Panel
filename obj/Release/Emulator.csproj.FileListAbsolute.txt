@@ -1,0 +1,112 @@
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Projekt Delta\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Emulator\bin\Release\Emulator.exe.config
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Emulator\bin\Release\Emulator.exe
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Emulator\bin\Release\Emulator.pdb
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Emulator\obj\Release\Emulator.exe
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Emulator\obj\Release\Emulator.pdb
+C:\Users\Administrator\Desktop\DarkorbitServerExample-master\DarkorbitServerExample-master\Needed Dll For MySQL\NewEmu\NewEmu\Emulator\bin\Release\Emulator.exe.config
+C:\Users\Administrator\Desktop\DarkorbitServerExample-master\DarkorbitServerExample-master\Needed Dll For MySQL\NewEmu\NewEmu\Emulator\obj\Release\Emulator.exe
+C:\Users\Administrator\Desktop\DarkorbitServerExample-master\DarkorbitServerExample-master\Needed Dll For MySQL\NewEmu\NewEmu\Emulator\obj\Release\Emulator.pdb
+C:\Users\Administrator\Desktop\DarkorbitServerExample-master\DarkorbitServerExample-master\Needed Dll For MySQL\NewEmu\NewEmu\Emulator\bin\Release\Emulator.exe
+C:\Users\Administrator\Desktop\DarkorbitServerExample-master\DarkorbitServerExample-master\Needed Dll For MySQL\NewEmu\NewEmu\Emulator\bin\Release\Emulator.pdb
+C:\Users\Administrator\Desktop\DarkorbitServerExample-master\DarkorbitServerExample-master\Needed Dll For MySQL\NewEmu\NewEmu\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\NewEmu\Emulator\bin\Release\Emulator.exe.config
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\NewEmu\Emulator\obj\Release\Emulator.exe
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\NewEmu\Emulator\obj\Release\Emulator.pdb
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\NewEmu\Emulator\bin\Release\Emulator.exe
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\NewEmu\Emulator\bin\Release\Emulator.pdb
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\NewEmu\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\givanov\Desktop\NewEmu\Emulator\bin\Release\Emulator.exe.config
+C:\Users\givanov\Desktop\NewEmu\Emulator\obj\Release\Emulator.exe
+C:\Users\givanov\Desktop\NewEmu\Emulator\obj\Release\Emulator.pdb
+C:\Users\givanov\Desktop\NewEmu\Emulator\bin\Release\Emulator.exe
+C:\Users\givanov\Desktop\NewEmu\Emulator\bin\Release\Emulator.pdb
+C:\Users\givanov\Desktop\NewEmu\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\givanov\Desktop\chat\Emulator\bin\Release\Emulator.exe.config
+C:\Users\givanov\Desktop\chat\Emulator\obj\Release\Emulator.exe
+C:\Users\givanov\Desktop\chat\Emulator\obj\Release\Emulator.pdb
+C:\Users\givanov\Desktop\chat\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\givanov\Desktop\chat\Emulator\bin\Release\Emulator.exe
+C:\Users\givanov\Desktop\chat\Emulator\bin\Release\Emulator.pdb
+C:\Users\givanov\Desktop\WITH NO NPC\chat\Emulator\bin\Release\Emulator.exe.config
+C:\Users\givanov\Desktop\WITH NO NPC\chat\Emulator\obj\Release\Emulator.exe
+C:\Users\givanov\Desktop\WITH NO NPC\chat\Emulator\obj\Release\Emulator.pdb
+C:\Users\givanov\Desktop\WITH NO NPC\chat\Emulator\bin\Release\Emulator.exe
+C:\Users\givanov\Desktop\WITH NO NPC\chat\Emulator\bin\Release\Emulator.pdb
+C:\Users\givanov\Desktop\WITH NO NPC\chat\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\chat\Emulator\bin\Release\Emulator.exe.config
+C:\Users\Administrator\Desktop\chat\Emulator\obj\Release\Emulator.exe
+C:\Users\Administrator\Desktop\chat\Emulator\obj\Release\Emulator.pdb
+C:\Users\Administrator\Desktop\chat\Emulator\bin\Release\Emulator.exe
+C:\Users\Administrator\Desktop\chat\Emulator\bin\Release\Emulator.pdb
+C:\Users\Administrator\Desktop\chat\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Older Ver\chat\Emulator\bin\Release\Emulator.exe.config
+C:\Users\Administrator\Desktop\Older Ver\chat\Emulator\obj\Release\Emulator.exe
+C:\Users\Administrator\Desktop\Older Ver\chat\Emulator\obj\Release\Emulator.pdb
+C:\Users\Administrator\Desktop\Older Ver\chat\Emulator\bin\Release\Emulator.exe
+C:\Users\Administrator\Desktop\Older Ver\chat\Emulator\bin\Release\Emulator.pdb
+C:\Users\Administrator\Desktop\Older Ver\chat\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Obbex\Downloads\chat2\chat\Emulator\bin\Release\Emulator.exe.config
+C:\Users\Obbex\Downloads\chat2\chat\Emulator\obj\Release\Emulator.exe
+C:\Users\Obbex\Downloads\chat2\chat\Emulator\obj\Release\Emulator.pdb
+C:\Users\Obbex\Downloads\chat2\chat\Emulator\bin\Release\Emulator.exe
+C:\Users\Obbex\Downloads\chat2\chat\Emulator\bin\Release\Emulator.pdb
+C:\Users\Obbex\Downloads\chat2\chat\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\chat\Emulator\bin\Release\Emulator.exe.config
+C:\Users\Administrador\Desktop\chat\Emulator\obj\Release\Emulator.exe
+C:\Users\Administrador\Desktop\chat\Emulator\obj\Release\Emulator.pdb
+C:\Users\Administrador\Desktop\chat\Emulator\bin\Release\Emulator.exe
+C:\Users\Administrador\Desktop\chat\Emulator\bin\Release\Emulator.pdb
+C:\Users\Administrador\Desktop\chat\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Zekeriya\Desktop\Emulator\bin\Release\Emulator.exe.config
+C:\Users\Zekeriya\Desktop\Emulator\obj\Release\Emulator.exe
+C:\Users\Zekeriya\Desktop\Emulator\obj\Release\Emulator.pdb
+C:\Users\Zekeriya\Desktop\Emulator\bin\Release\Emulator.exe
+C:\Users\Zekeriya\Desktop\Emulator\bin\Release\Emulator.pdb
+C:\Users\Zekeriya\Desktop\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\intel7\Desktop\Emulator\bin\Release\Emulator.exe.config
+C:\Users\intel7\Desktop\Emulator\obj\Release\Emulator.exe
+C:\Users\intel7\Desktop\Emulator\obj\Release\Emulator.pdb
+C:\Users\intel7\Desktop\Emulator\bin\Release\Emulator.exe
+C:\Users\intel7\Desktop\Emulator\bin\Release\Emulator.pdb
+C:\Users\intel7\Desktop\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\zeki\Desktop\Oyun Emulatorleri Ve Kodlar\Yedeklerım\Emulator\bin\Release\Emulator.exe.config
+C:\Users\zeki\Desktop\Oyun Emulatorleri Ve Kodlar\Yedeklerım\Emulator\obj\Release\Emulator.exe
+C:\Users\zeki\Desktop\Oyun Emulatorleri Ve Kodlar\Yedeklerım\Emulator\obj\Release\Emulator.pdb
+C:\Users\zeki\Desktop\Oyun Emulatorleri Ve Kodlar\Yedeklerım\Emulator\bin\Release\Emulator.exe
+C:\Users\zeki\Desktop\Oyun Emulatorleri Ve Kodlar\Yedeklerım\Emulator\bin\Release\Emulator.pdb
+C:\Users\zeki\Desktop\Oyun Emulatorleri Ve Kodlar\Yedeklerım\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Android-AP\Desktop\Emulator\bin\Release\Emulator.exe.config
+C:\Users\Android-AP\Desktop\Emulator\obj\Release\Emulator.exe
+C:\Users\Android-AP\Desktop\Emulator\obj\Release\Emulator.pdb
+C:\Users\Android-AP\Desktop\Emulator\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Android-AP\Desktop\Emulator\bin\Release\Emulator.exe
+C:\Users\Android-AP\Desktop\Emulator\bin\Release\Emulator.pdb
+C:\Users\Android-AP\Desktop\Emulator\bin\Release\MySql.Data.dll
+C:\Users\Android-AP\Desktop\Emulator - Kopya\bin\Release\Emulator.exe.config
+C:\Users\Android-AP\Desktop\Emulator - Kopya\obj\Release\Emulator.exe
+C:\Users\Android-AP\Desktop\Emulator - Kopya\obj\Release\Emulator.pdb
+C:\Users\Android-AP\Desktop\Emulator - Kopya\bin\Release\Emulator.exe
+C:\Users\Android-AP\Desktop\Emulator - Kopya\bin\Release\Emulator.pdb
+C:\Users\Android-AP\Desktop\Emulator - Kopya\bin\Release\MySql.Data.dll
+C:\Users\Android-AP\Desktop\Emulator - Kopya\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Android-AP\Desktop\Emulator - Kopya\obj\Release\Do.TEXT.resources
+C:\Users\Android-AP\Desktop\Emulator - Kopya\obj\Release\Emulator.csproj.GenerateResource.Cache
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\bin\Release\Emulator.exe.config
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Release\Emulator.exe
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Release\Emulator.pdb
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\bin\Release\Emulator.exe
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\bin\Release\Emulator.pdb
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\bin\Release\MySql.Data.dll
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Release\Do.TEXT.resources
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Release\Emulator.csproj.GenerateResource.Cache
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Release\Do.KICK.resources
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Release\Do.ChatLog.resources
+C:\Users\Android-AP\Desktop\EMULATOR CONTROL SYSTEM\obj\Release\Do.BAN.resources

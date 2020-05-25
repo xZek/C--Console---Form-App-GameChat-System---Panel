@@ -1,0 +1,440 @@
+C:\Users\Monika\Documents\Schach\.Projekt Delta\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Monika\Documents\Schach\.Projekt Delta\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Monika\Documents\Schach\.Projekt Delta\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Monika\Documents\Schach\.Projekt Delta\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Monika\Documents\Schach\.Projekt Delta\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Monika\Documents\Schach\.Projekt Delta\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\projeck delta\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\projeck delta\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\projeck delta\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\projeck delta\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\projeck delta\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\projeck delta\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\projeck delta\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\Release 8.0 Original\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\Release 8.0 Original\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Release 8.0 Original\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Release 8.0 Original\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Release 8.0 Original\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Release 8.0 Original\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\Release 8.0 Original\turso\ou2\ou\rar de ardii\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\Release 15\Release 13\Release 9.8 Original\projeck delta number 1\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Release 1.8.0\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Administrator\Desktop\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Administrator\Desktop\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Administrator\Desktop\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Administrator\Desktop\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Administrator\Desktop\Release 1.8.0\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\Release 1.8.0\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\turso\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\turso\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\turso\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\turso\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\turso\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\turso\Release 1.8.0\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\turso\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\1.testclantag\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\1.testclantag\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\1.testclantag\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\1.testclantag\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\1.testclantag\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\1.testclantag\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\1.testclantag\1.1.2.3\turso2\Release 1.8.0\Source\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\Clan Release\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\Clan Release\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Clan Release\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Clan Release\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Clan Release\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Clan Release\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\Clan Release\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\copy and paste\Clan Release\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\copy and paste\Clan Release\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\copy and paste\Clan Release\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\copy and paste\Clan Release\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\copy and paste\Clan Release\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\copy and paste\Clan Release\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\Jordi Youtube\Desktop\copy and paste\Clan Release\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\Clan Release\Clan Release\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\Clan Release\Clan Release\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Clan Release\Clan Release\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Clan Release\Clan Release\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\Clan Release\Clan Release\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\Clan Release\Clan Release\Projekt Delta\bin\Release\MySql.Data.dll
+C:\Users\alguien\Desktop\Clan Release\Clan Release\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\Equipment Release\Clan Release\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\Equipment Release\Clan Release\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\Equipment Release\Clan Release\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\Equipment Release\Clan Release\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\Equipment Release\Clan Release\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\Equipment Release\Clan Release\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\cambio de config con speed actualizada\Equipment Release\Clan Release\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\cambio de config con speed actualizada\Equipment Release\Clan Release\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\cambio de config con speed actualizada\Equipment Release\Clan Release\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\cambio de config con speed actualizada\Equipment Release\Clan Release\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\cambio de config con speed actualizada\Equipment Release\Clan Release\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\cambio de config con speed actualizada\Equipment Release\Clan Release\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\FINAL 23-11\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\FINAL 23-11\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 23-11\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 23-11\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 23-11\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 23-11\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\FINAL 23-12\FINAL 23-11\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\FINAL 23-12\FINAL 23-11\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 23-12\FINAL 23-11\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 23-12\FINAL 23-11\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 23-12\FINAL 23-11\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 23-12\FINAL 23-11\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 24-11\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 24-11\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 24-11\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 24-11\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 24-11\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 24-11\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\FINAL 24-11\SEMIFINAL 24-11\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\FINAL 24-11\SEMIFINAL 24-11\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 24-11\SEMIFINAL 24-11\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 24-11\SEMIFINAL 24-11\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 24-11\SEMIFINAL 24-11\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 24-11\SEMIFINAL 24-11\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\FINAL 24-11\SEMIFINAL 24-11\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\FINAL 24-11\SEMIFINAL 24-11\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 24-11\SEMIFINAL 24-11\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 24-11\SEMIFINAL 24-11\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 24-11\SEMIFINAL 24-11\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 24-11\SEMIFINAL 24-11\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\FINAL 29-11\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\FINAL 29-11\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 29-11\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 29-11\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 29-11\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 29-11\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\FINAL 29-11\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\FINAL 29-11\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 29-11\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 29-11\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 29-11\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 29-11\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\SEMIFINAL 30-11\FINAL 29-11\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\SEMIFINAL 30-11\FINAL 29-11\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL 30-11\FINAL 29-11\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL 30-11\FINAL 29-11\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL 30-11\FINAL 29-11\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL 30-11\FINAL 29-11\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\SEMIFINAL 01-12\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\SEMIFINAL 01-12\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL 01-12\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL 01-12\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL 01-12\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL 01-12\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\FINAL 01-12\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\FINAL 01-12\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 01-12\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 01-12\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 01-12\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 01-12\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\FINAL 04-12\FINAL 01-12\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\FINAL 04-12\FINAL 01-12\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 04-12\FINAL 01-12\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 04-12\FINAL 01-12\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 04-12\FINAL 01-12\FINAL 30-11\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 04-12\FINAL 01-12\FINAL 30-11\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\FINAL 05-12\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\FINAL 05-12\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 05-12\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 05-12\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 05-12\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 05-12\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\FINAL 06-12\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\FINAL 06-12\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 06-12\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 06-12\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 06-12\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 06-12\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\FINAL 07-12\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\FINAL 07-12\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 07-12\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 07-12\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 07-12\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 07-12\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\FINAL 10-12\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\FINAL 10-12\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 10-12\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 10-12\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 10-12\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 10-12\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\FINAL 21-12\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\FINAL 21-12\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 21-12\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 21-12\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 21-12\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 21-12\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\FINAL 22-12\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\FINAL 22-12\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 22-12\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 22-12\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 22-12\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 22-12\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\FINAL 22-lol12\FINAL 22-12\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\FINAL 22-lol12\FINAL 22-12\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 22-lol12\FINAL 22-12\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 22-lol12\FINAL 22-12\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 22-lol12\FINAL 22-12\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 22-lol12\FINAL 22-12\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\FINAL 25-12-13\FINAL 22-12\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\FINAL 25-12-13\FINAL 22-12\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 25-12-13\FINAL 22-12\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 25-12-13\FINAL 22-12\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\FINAL 25-12-13\FINAL 22-12\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\FINAL 25-12-13\FINAL 22-12\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\FINAL 26-12-13\FINAL 25-12-13\FINAL 22-12\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\FINAL 26-12-13\FINAL 25-12-13\FINAL 22-12\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 26-12-13\FINAL 25-12-13\FINAL 22-12\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 26-12-13\FINAL 25-12-13\FINAL 22-12\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINAL 26-12-13\FINAL 25-12-13\FINAL 22-12\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINAL 26-12-13\FINAL 25-12-13\FINAL 22-12\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\FINA(2) 25-12-13\FINA(2) 25-12-13\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\FINA(2) 25-12-13\FINA(2) 25-12-13\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINA(2) 25-12-13\FINA(2) 25-12-13\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINA(2) 25-12-13\FINA(2) 25-12-13\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\FINA(2) 25-12-13\FINA(2) 25-12-13\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\FINA(2) 25-12-13\FINA(2) 25-12-13\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\SEMIFINAL(2) 26-12-13\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\SEMIFINAL(2) 26-12-13\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL(2) 26-12-13\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL(2) 26-12-13\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL(2) 26-12-13\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL(2) 26-12-13\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\SEMIFINAL(2) 27-12-13\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\SEMIFINAL(2) 27-12-13\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL(2) 27-12-13\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL(2) 27-12-13\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL(2) 27-12-13\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL(2) 27-12-13\SEMIFINAL 26-12-13\FINA(2) 25-12-13\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 29-12-13\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 29-12-13\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 29-12-13\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 29-12-13\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 29-12-13\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL 29-12-13\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\SEMIFINAL2 29-12-13\SEMIFINAL 29-12-13\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\SEMIFINAL2 29-12-13\SEMIFINAL 29-12-13\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL2 29-12-13\SEMIFINAL 29-12-13\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL2 29-12-13\SEMIFINAL 29-12-13\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL2 29-12-13\SEMIFINAL 29-12-13\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL2 29-12-13\SEMIFINAL 29-12-13\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\SEMIFINAL3 29-12-13\SEMIFINAL2 29-12-13\SEMIFINAL 29-12-13\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\SEMIFINAL3 29-12-13\SEMIFINAL2 29-12-13\SEMIFINAL 29-12-13\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL3 29-12-13\SEMIFINAL2 29-12-13\SEMIFINAL 29-12-13\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL3 29-12-13\SEMIFINAL2 29-12-13\SEMIFINAL 29-12-13\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL3 29-12-13\SEMIFINAL2 29-12-13\SEMIFINAL 29-12-13\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL3 29-12-13\SEMIFINAL2 29-12-13\SEMIFINAL 29-12-13\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL4 29-12-13\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL4 29-12-13\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL4 29-12-13\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL4 29-12-13\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL4 29-12-13\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\SEMIFINAL4 29-12-13\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\SEMIFINAL5 29-12-13\SEMIFINAL4 29-12-13\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\SEMIFINAL5 29-12-13\SEMIFINAL4 29-12-13\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL5 29-12-13\SEMIFINAL4 29-12-13\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL5 29-12-13\SEMIFINAL4 29-12-13\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\SEMIFINAL5 29-12-13\SEMIFINAL4 29-12-13\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\SEMIFINAL5 29-12-13\SEMIFINAL4 29-12-13\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT 2\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT 2\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT 2\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT 2\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT 2\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT 2\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT 3 - copia\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT 3 - copia\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT 3 - copia\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT 3 - copia\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT 3 - copia\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\TOTAL FINAL MOVEMENT 3 - copia\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\alguien\Desktop\19-1-14\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\alguien\Desktop\19-1-14\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\19-1-14\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\19-1-14\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\alguien\Desktop\19-1-14\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\alguien\Desktop\19-1-14\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Jordi Youtube\Desktop\19-1-14\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Jordi Youtube\Desktop\19-1-14\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\19-1-14\Projekt Delta\obj\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\19-1-14\Projekt Delta\bin\Release\Projekt Delta.exe
+C:\Users\Jordi Youtube\Desktop\19-1-14\Projekt Delta\bin\Release\Projekt Delta.pdb
+C:\Users\Jordi Youtube\Desktop\19-1-14\Projekt Delta\obj\Release\Projekt Delta.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Projekt Delta\bin\Release\Projekt Delta.exe.config
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Projekt Delta\obj\Release\Projekt Delta.exe
+C:\Users\Administrator\Desktop\NewEmu\NewEmu\Projekt Delta\obj\Release\Projekt Delta.pdb
